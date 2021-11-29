@@ -1,0 +1,4 @@
+Para subirlo a git y que funcione en git pages hay que usar:
+ng build --prod --base-href "./"
+nos crea la carpeta dist y tenemos que subir lo que hay dentro
+Puede que tengas que activar y desactivar varias veces git pages para que lo reconozda
